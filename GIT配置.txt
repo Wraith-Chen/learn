@@ -11,3 +11,16 @@ git remote add origin (密钥)
 git add .
 git commit -m ""
 git push -u origin master
+
+第一次下载
+git clone
+
+提交
+git add .
+git commit -m ""
+git push origin master
+
+更新
+git pull
+
+
