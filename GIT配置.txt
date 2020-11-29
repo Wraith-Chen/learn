@@ -1,0 +1,13 @@
+本地建项目
+git init
+
+远程建立git项目
+github 生成密钥
+
+本地远程关联
+git remote add origin (密钥)
+
+第一次发布
+git add .
+git commit -m ""
+git push -u origin master
